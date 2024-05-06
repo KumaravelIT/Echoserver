@@ -1,5 +1,4 @@
-# Echoserver
-Echo server and client using python socket
+# Experiment-01-Simple echo server and client using Python socket
 
 # AIM:
 To develop a simple webserver to serve html programming pages.
